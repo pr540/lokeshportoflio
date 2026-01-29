@@ -48,7 +48,7 @@ const RESUME_DATA = {
     {
       institution: "Gokaraju Rangaraju Institute of Engineering and Technology",
       degree: "B.Tech in Computer Science and Engineering",
-      period: "2017 - 2021",
+      period: "2019 - 2023",
       stats: "GPA: 7.56/10.00"
     },
     {
