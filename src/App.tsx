@@ -40,7 +40,7 @@ const RESUME_DATA = {
     {
       company: "Headway DataSystems",
       role: "Full Stack Developer",
-      period: "2023 - Present",
+      period: "2023 - Oct 2025",
       description: "Working at a fast-paced startup, specializing in building responsive web applications and cross-platform mobile apps."
     }
   ],
