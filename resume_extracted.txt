@@ -1,0 +1,117 @@
+LOKESH GANDAM
+
++91-9133723123 | lokeshgandhamshr@gmail.com
+
+Hyderabad, Telangana - 500053, India
+
+OBJECTIVE
+
+Dynamic full-stack developer with 2 years of hands-on experience at Headway DataSystems, a fast-paced startup.
+Specialized in building responsive web applications with Next.js and React, as well as cross-platform mobile apps
+using React Native. Proven ability to deliver user-friendly, performant solutions in agile environments, seeking to
+contribute technical expertise and innovative problem-solving to a growth-oriented team.
+
+EDUCATION
+
+• Gokaraju Rangaraju Institute of Engineering and Technology
+
+Computer Science and Engineering
+◦ GPA: 7.56/10.00
+
+• Sri Chaitanya Junior Kalasala
+
+MPC
+◦ Grade: 94.6%
+
+• Sri Chaitanya Techno School
+
+SSC
+◦ GPA: 9.3/10
+
+June 2017- June 2021
+Hyderabad, India
+
+March 2017
+Hyderabad, India
+
+March 2015
+Hyderabad, India
+
+PROJECTS
+• iHeal PWA : Developed a health and wellness content management web application with role-based access control[§]
+
+Tools: [Next.js, React, TypeScript, TailwindCSS, TanStack Query, Zustand]
+◦ Architected RBAC system for Authentication and Authorization managing Admin, Moderator, and User roles
+
+◦ Implemented NextAuth security for session management, achieving secure role-based content access control
+
+◦ Created content editors ensuring creation, searching, filtering of articles, recipes, exercises, videos, and audio
+
+◦ Applied admin dashboard to analyze content metrics, manage moderators, and oversee certification approvals
+
+• iHeal Mobile App: Cross-platform health and wellness application with authentication and onboarding
+
+[§]
+
+Tools: [React Native, Expo, TypeScript, React Navigation, AWS Amplify, Firebase]
+◦ Built authentication flow with login, signup, password recovery, and OTP verification
+
+◦ Created 15+ health assessment screens for diet, sleep, activity, and body metrics
+
+◦ Integrated AWS Amplify and Firebase for backend services and push notifications
+
+◦ Implemented Stripe payments and SSL pinning for enhanced security
+
+• Jayashankar Group: Corporate Website for Industrial Conglomerate
+
+[§]
+
+React, TypeScript, Vite, Tailwind CSS, Radix UI, React Router, Framer Motion
+◦ Developed a comprehensive corporate website for a multi-vertical industrial conglomerate with 4 business
+
+divisions spanning Industrial Parks, Pulp & Paper, Power Infrastructure, and Chemicals & Packaging
+
+◦ Architected a scalable React application with TypeScript using Vite build tool, implementing 25+ pages including
+
+dynamic routing for business verticals, project showcases, and company information sections
+
+◦ Designed and implemented a modern, responsive UI using Tailwind CSS and Radix UI component library,
+
+featuring interactive carousels, animated partner marquees, and smooth page transitions with Framer Motion
+
+◦ Engineered reusable component architecture including custom Header, Footer, Hero sections, and form
+
+components with React Hook Form and Zod validation for contact functionality
+
+• Pharmetrade: B2B Pharmaceutical E-commerce Platform
+
+[§]
+
+Tools: [React, Vite, Redux Toolkit, React Router, Material-UI, Axios, Chart.js, TailwindCSS]
+◦ Built comprehensive authentication system with login, signup, password recovery, and CAPTCHA verification
+
+◦ Developed multi-role user management supporting Retail Pharmacy, Distributors, Sellers, and Buyers
+
+◦ Created 20+ screens including product catalog, cart, checkout, wishlist, and order management
+
+◦ Implemented seller dashboard with inventory management, order tracking, earnings, and analytics
+
+◦ Integrated payment processing with multiple payment methods and secure checkout flow
+
+◦ Built admin panel for managing customers, sellers, and platform operations
+
+◦ Designed responsive UI with Material-UI components and TailwindCSS for cross-device compatibility
+
+SKILLS
+• Programming Languages: Java, JavaScript, TypeScript, Python, C/C++, SQL
+• Frontend Technologies: React, React Native, Angular, HTML5, CSS3, TailwindCSS, Material-UI, Redux Toolkit
+• Backend Technologies: Spring Boot, FastAPI, REST APIs
+• Mobile Development: React Native,React Native Web, Expo
+• Database Systems: MySQL, MySQL Workbench
+• Other Tools & Libraries: React Router, Axios, React Navigation, Vite
+
+ADDITIONAL INFORMATION
+Languages: English , Hindi, Telugu.
+Interests: Playing Cricket, Music , Watching Movies
+
+
